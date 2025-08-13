@@ -1,6 +1,6 @@
 # ML Ops 1
 
-![Build Status](https://github.com/Rufiz16980/ml_ops_project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Rufiz16980/ml_ops_1/actions/workflows/ci-build.yaml/badge.svg)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![3.13](https://img.shields.io/badge/Python-3.13-green.svg)](https://shields.io/)
